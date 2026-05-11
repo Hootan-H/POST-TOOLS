@@ -35,3 +35,11 @@ A powerful macOS app designed for video editors, colourists, and post-production
 
 Video File Naming Tool
 lightweight macOS utility for post-production professionals that quickly creates clean, consistent, industry-standard video filenames. It guides users through structured prompts to select technical parameters such as resolution, mastering codec, colour space, HDR/SDR, frame rate, audio configuration, version, and date, then assembles them into a properly formatted filename and optionally copies it to the clipboard, reducing errors, saving time, and keeping deliveries organised.
+
+LAB-TOOLS
+A DCTL that introduces a LAB-style control layer inside an ACEScct pipeline, aiming for more perceptual and intuitive colour manipulation.
+The tool is built around a few focused controls:
+Exposure (L-like behaviour)  designed to feel natural within ACEScct rather than acting as a simple gain
+A axis : shifting along the Red ↔ Cyan direction
+B axis : shifting along the blue ↔ yellow direction
+Selective colour boost : a saturation enhancement that primarily affects the blue–yellow axis, helping to enrich skies, warm tones, and natural colour separation without overdriving the full gamut
