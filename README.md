@@ -9,7 +9,7 @@ The goal of these tools is simple: reduce friction, automate repetitive tasks, a
 I’m now sharing everything here for free, for anyone who may find them useful in their own workflows.
 
 Feedback, suggestions, and ideas for improvements are very welcome. If you think something should be added, changed, or expanded, 
-feel free to open an issue or reach out — I’m keen to improve future versions and keep these tools evolving alongside real-world needs.
+feel free to open an issue or reach out.  I’m keen to improve future versions and keep these tools evolving alongside real-world needs.
 
 
 
