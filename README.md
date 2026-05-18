@@ -1,5 +1,5 @@
 # POST-TOOLS
-his repository contains a collection of apps and tools I’ve developed for post-production workflows.
+This repository contains a collection of apps and tools I’ve developed for post-production workflows.
 
 Most of these started as in-house tools, built to solve everyday problems in real production environments. Some were developed solely by me, others in collaboration with 
 software-developer friends, and more recently with the assistance of AI-based tools to speed up development and experimentation.
